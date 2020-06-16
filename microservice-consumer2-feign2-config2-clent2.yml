@@ -10,7 +10,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: microservice-consumer-config-clent
+    name: microservice-consumer2-feign2-config2-clent2
 
 eureka:
   client:
